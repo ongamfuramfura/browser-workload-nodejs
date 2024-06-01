@@ -1,10 +1,3 @@
-# browser mining
-
-# Example of API integration for webminer into custom website using miner service provider
-
-# Disclaimer:
-This repository is mainly for educational purpose only. Author doesn't affiliated with any other related platforms
-
 ## Start
 
 1. Install node v18
